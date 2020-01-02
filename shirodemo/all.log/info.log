@@ -1,0 +1,15 @@
+14:25:44.079 [main] INFO  com.example.shirodemo.ShirodemoApplication - Starting ShirodemoApplication on DESKTOP-HAM3CCM with PID 2572 (E:\work\java\shirodemo\target\classes started by mac in E:\work\java\shirodemo)
+14:25:44.088 [main] INFO  com.example.shirodemo.ShirodemoApplication - No active profile set, falling back to default profiles: default
+14:25:46.050 [main] INFO  com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceAutoConfigure - Init DruidDataSource
+14:25:46.237 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+14:25:46.900 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-9000"]
+14:25:46.900 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+14:25:46.903 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.29]
+14:25:46.991 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+14:25:47.619 [main] INFO  springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+14:25:48.009 [main] INFO  springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+14:25:48.024 [main] INFO  springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+14:25:48.050 [main] INFO  springfox.documentation.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+14:25:48.197 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-9000"]
+14:25:48.221 [main] INFO  com.example.shirodemo.ShirodemoApplication - Started ShirodemoApplication in 4.8 seconds (JVM running for 6.64)
+14:26:04.601 [http-nio-9000-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
